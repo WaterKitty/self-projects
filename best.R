@@ -25,4 +25,5 @@ best <- function(state, outcome){
 		output <- result[order(result)]
 	}
 	return(output)
-}
+
+}	
